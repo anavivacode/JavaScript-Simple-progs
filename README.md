@@ -1,2 +1,2 @@
-# JavaScript-Simple-progs
-Simple programms in Javascript
+# Small-parts-site
+1. Slider
