@@ -1,3 +1,2 @@
-# Small-parts-site
+# Slider
 1. Slider
-2. Counter
